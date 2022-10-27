@@ -4,7 +4,7 @@ Notes and Coding Homework
   
 ## Homework 2
   Homework details:
-      Reading homework:
+      ###Reading homework:
           1. Go through the modern CNN: ResNet and Vgg-16. Can explain how they are implemented, and can draw the graph to describe them.
           2. Go through the common used PyTorch.nn (mainly on 2d):
           3. Pooling Layer
